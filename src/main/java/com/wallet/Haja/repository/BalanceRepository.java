@@ -3,8 +3,6 @@ package com.wallet.Haja.repository;
 import com.wallet.Haja.config.Connectiondb;
 import com.wallet.Haja.entity.Account;
 import com.wallet.Haja.entity.Balance;
-import com.wallet.Haja.entity.Currency;
-
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;

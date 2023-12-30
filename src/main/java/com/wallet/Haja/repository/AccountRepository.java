@@ -5,7 +5,6 @@ import com.wallet.Haja.entity.Account;
 import com.wallet.Haja.entity.AccountType;
 import com.wallet.Haja.entity.Currency;
 import lombok.AllArgsConstructor;
-
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
